@@ -3,3 +3,9 @@
 *.fir
 *.v
 test_run_dir/
+
+
+*/*.json
+*/*.fir
+*/*.v
+*/diagrams/
