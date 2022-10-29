@@ -9,3 +9,8 @@ test_run_dir/
 */*.fir
 */*.v
 */diagrams/
+
+*/*/*.json
+*/*/*.fir
+*/*/*.v
+*/*/diagrams/
