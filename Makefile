@@ -7,7 +7,7 @@ server:
 exportJupyter: 
 	export PATH="$(HOME)/.local/bin:$(PATH)"
 image:
-	cd img && git pull
+	rm -rf svg && cd img && git pull && make exportSvg
 help:
 	export PATH="$(HOME)/.local/bin:$(PATH)" && jupyter --help
 
