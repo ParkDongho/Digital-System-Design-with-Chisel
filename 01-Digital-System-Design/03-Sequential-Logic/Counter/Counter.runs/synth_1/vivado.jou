@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Dec 26 14:41:53 2022
+# Process ID: 42028
+# Current directory: /home/parkdongho/dev/Digital-System-Design-with-Chisel/01-Digital-System-Design/03-Sequential-Logic/Counter/Counter.runs/synth_1
+# Command line: vivado -log ShiftFIFO.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ShiftFIFO.tcl
+# Log file: /home/parkdongho/dev/Digital-System-Design-with-Chisel/01-Digital-System-Design/03-Sequential-Logic/Counter/Counter.runs/synth_1/ShiftFIFO.vds
+# Journal file: /home/parkdongho/dev/Digital-System-Design-with-Chisel/01-Digital-System-Design/03-Sequential-Logic/Counter/Counter.runs/synth_1/vivado.jou
+# Running On: rhel8, OS: Linux, CPU Frequency: 3800.000 MHz, CPU Physical cores: 16, Host memory: 67192 MB
+#-----------------------------------------------------------
+source ShiftFIFO.tcl -notrace
