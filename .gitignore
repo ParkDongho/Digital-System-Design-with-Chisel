@@ -4,15 +4,10 @@
 *.v
 test_run_dir/
 
-
-*/*.json
-*/*.fir
-*/*.v
-*/diagrams/
-
 */*/*.json
 */*/*.fir
 */*/*.v
+*/*/*.f
 */*/diagrams/
 
 ./svg/
